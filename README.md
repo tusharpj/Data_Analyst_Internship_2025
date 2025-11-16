@@ -36,7 +36,8 @@ Column names ko clean, lowercase aur space-free format me convert kiya.
 Data type correction
 Age ko integer me convert kiya
 Dates ko date/datetime format me convert kiya
-Numeric values ko proper number format diya
+Numeric values ko proper number format diya 
+
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Day 2 – Data Visualization & Reporting
 
