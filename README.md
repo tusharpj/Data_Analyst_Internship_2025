@@ -1,42 +1,51 @@
 # Data_Analyst_Internship_2025
+
 Day 1 – Data Cleaning & Preprocessing
 
 Task Name: Data Cleaning and Preprocessing
 
-Objective: Raw dataset ko clean, structured aur analysis-ready banana.
+Objective: To clean the raw dataset and make it structured, consistent, and ready for analysis.
 
-Goals
-Missing values identify aur handle karna
-Duplicate records remove karna
-Inconsistent formats ko standardize karna
-Column naming fix karna
-Data types ko correct format me convert karna
-Final cleaned dataset prepare karna
+Goals:
 
-Tools Used
+Identify and handle missing values
+Remove duplicate records
+Standardize inconsistent formats
+Fix column names
+Convert data types into correct formats
+Prepare the final cleaned dataset
+
+Tools Used:
+
 Excel
-(Optional reference): Python (Pandas)
+(Optional) Python – Pandas
 
-Dataset Used
+Dataset Used:
+
 Customer Personality Analysis (Kaggle)
 
 Steps Performed
-Missing values check
-Excel filters ka use karke null/blank values identify kiye aur clean kiye.
-Duplicate removal
-Excel → Data Tab → Remove Duplicates se duplicate rows remove kiye.
-Text standardization
-Gender values ko uniform format me convert kiya
-Country/Category names ki inconsistencies correct ki
-Date formatting
-Dates ko ek single consistent format (dd-mm-yyyy) me convert kiya.
-Column renaming
-Column names ko clean, lowercase aur space-free format me convert kiya.
+1. Checking Missing Values
+Used Excel filters to identify blank or null values and cleaned them.
 
-Data type correction
-Age ko integer me convert kiya
-Dates ko date/datetime format me convert kiya
-Numeric values ko proper number format diya 
+2. Removing Duplicates
+Used Excel → Data Tab → Remove Duplicates to remove repeated rows.
+
+3. Text Standardization
+Standardized gender values
+Corrected inconsistencies in country/category names
+
+4. Date Formatting
+Converted all date fields into one consistent format: dd-mm-yyyy
+
+5. Column Renaming
+Cleaned the column names by making them lowercase and removing extra spaces.
+
+6. Data Type Correction
+Converted Age into integer format
+Converted date columns into proper date/datetime format
+
+Applied correct number formatting for numeric fields
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Day 2 – Data Visualization & Reporting
