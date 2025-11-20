@@ -116,8 +116,51 @@ Generated combined insights using multi-table queries
 Applied conditions using AND, OR, and numeric/text ranges
 Performed date-based filtering such as year/month filters
 
-6. Final Output Preparation
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Generated clean and readable result sets
-Documented all SQL queries and outputs in a Word file
-Uploaded the SQL file and documentation in the Day 3 folder
+Day 4 – Dashboard Design (Power BI – Bike Sales Data)
+Task Name: Dashboard Design & Business Insights
+Objective:
+
+Bike Sales dataset ka use karke ek interactive dashboard create karna jo sales, profit aur customer behavior ko clearly show kare.
+
+Goals:
+Key KPIs highlight karna
+Sales & profit trends analyze karna
+Product, region & customer insights show karna
+Dashboard ko interactive aur clean design me banana
+
+Tools Used:
+Power BI Desktop
+Excel (Bike Sales Dataset)
+
+Dataset Used:
+Bike Sales Data (Sales, Profit, Orders, Age, State, Country, Product, Quantity)
+
+Steps Performed
+1. Data Import & Setup
+Excel file import ki
+Data types correct kiye
+Model relationships validate kiye
+
+2. KPI Creation (Dashboard KPIs)
+Total Sales
+Total Sales Order Value
+Average Profit
+Customer Age Count
+
+3. Visuals Created
+Bar Chart → Profit by Sub-Category
+Line Chart → Profit by Order Quantity
+Donut Chart → Sales by Age
+Pie Chart → Profit by Product
+Map → Country-wise Sales Orders
+Bar Chart → State-wise Sales
+
+KPI Cards → Sales, Orders, Profit, Age Count
+
+4. Interactivity & Formatting
+
+Country slicer added
+Clean dark theme layout
+Proper alignment & consistent color palette
