@@ -68,7 +68,9 @@ Power BI (optional)
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Day 3 – SQL for Data Analysis
+
 Task Name: SQL Queries for Data Extraction & Analysis
+
 Objective
 
 Extract meaningful insights from the database, join tables, and prepare structured analysis by filtering, sorting, and grouping data.
@@ -119,7 +121,9 @@ Performed date-based filtering such as year/month filters
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Day 4 – Dashboard Design (Power BI – Bike Sales Data)
+
 Task Name: Dashboard Design & Business Insights
+
 Objective:
 
 Bike Sales dataset ka use karke ek interactive dashboard create karna jo sales, profit aur customer behavior ko clearly show kare.
